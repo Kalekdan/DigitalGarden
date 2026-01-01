@@ -21,3 +21,6 @@ I know how my mind works better than anyone, and I'm fully aware of my tendency 
 I hope I keep this garden as alive as I picture, but who is to know. I've tried journaling several times in the past, but never made it beyond a week or so. I'm making a promise to myself now that I won't restrict what ends up in this garden. It might be of interest to you or it might not, but it's what I want to write so I will write it. Hopefully this freedom gives the plants room to grow as they deserve.
 
 That's it for the plant puns for now I promise. See you in the next one.
+
+
+*(Image from Maggie Appleton)*
