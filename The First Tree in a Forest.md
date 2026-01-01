@@ -5,8 +5,10 @@ tags:
   - meta
 maturity: sapling
 plantedDate: 2025-12-30
-tendedDate: 2025-12-30
+tendedDate: 2026-01-01
 ---
+![[Pasted image 20260101164432.png|650]]
+
 So here we are, the first entry, or seed, planted in my digital garden. Assuming this doesn't get forgotten like so many other project, hopefully the first of many.
 
 Digital gardens are a relatively new concept to me, so I'm sure my style and even the site itself will evolve a lot over time, but for now this is it. I expect this note will grow as well - after all, it is only a seed.... (and I'm aware of how much I'm overusing the plant/seed metaphor - trust me, I will keep going until there are no more plant related puns left).
