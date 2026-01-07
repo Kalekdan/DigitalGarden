@@ -1,7 +1,8 @@
 ---
 title: Vibe Coding - The death of new developers?
 tags:
-  - tag-one
+  - programming
+  - technology
 maturity: seed
 plantedDate: 2026-01-02
 tendedDate: 2026-01-02
