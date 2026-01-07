@@ -5,7 +5,7 @@ tags:
   - technology
 maturity: seed
 plantedDate: 2026-01-02
-tendedDate: 2026-01-02
+tendedDate: 2026-01-07
 ---
 ![[Pasted image 20260107150651.png]]
 I vibe code from time to time, but I always check what the AI is generating, and review each action carefully. If you're not careful it can get sloppy very quickly.
