@@ -3,9 +3,9 @@ title: Finding an unbiased news source
 tags:
   - news
   - politics
-maturity: seed
+maturity: sapling
 plantedDate: 2026-01-07
-tendedDate: 2026-01-07
+tendedDate: 2026-01-08
 ---
 A good source of news is as relevant today as it has ever been. I had an interesting discussion with my Dad over Christmas about where we get our news. Living in the UK, we're fortunate that the primary source of news for most people (the BBC), is largely unbiased. Or is it?
 
@@ -16,6 +16,8 @@ I thought it would be interesting to see where the BBC sits on several key polit
 ## Can we trust the BBC?
 ![[Pasted image 20260107142528.png]]
 Its clear (or as clear as an opinion poll in a discussion about bias can be) that the public (in 2023) considered the BBC one of the more trustworthy sources of news - [(YouGov)](https://yougov.co.uk/politics/articles/45744-which-media-outlets-do-britons-trust-2023). Having said that, opinion polls are by their very nature biased. If a far right media outlet was the only place you got your news, I'm sure you'd believe it to be honest and true, but only by taking a step back can we find the truth of it.
+
+For those who don't know, the BBC is a publicly funded broadcaster, and where [43% of Brits get their news](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/tv-radio-and-on-demand-research/tv-research/news/news-consumption-2024/news-consumption-in-the-uk-2024-report.pdf?v=379621). It's impact is undeniably massive, and it claims to be an impartial news outlet. Due to the nature of it's public funding, it theoretically shouldn't cater to stories for the sake of drawing in audiences, or stirring drama. The BBC has had their fair share of drama over the past few years though, with various scandals of misconduct within the organisation being ignored or actively brushed under the carpet. That being said, BBC news does itself report on these scandals of the wider organisation.
 
 ## What does it mean to be unbiased?
 Bias relative to population is not the same as unbiased imo.
