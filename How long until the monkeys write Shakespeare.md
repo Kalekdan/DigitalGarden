@@ -12,7 +12,7 @@ Theres the classic thought experiment - if you had a room full of monkeys random
 ### The Theory
 We're going to work on the assumption that the monkey is hitting the keyboard totally randomly, it should be quite straightforward to work out how long it will take to type any given word. I'm also going to ignore spaces for now, as that adds another level of complexity we will talk about later.
 
-Each letter has a 1/26 chance of appearing, so the chance of a 1 letter word being typed is 1/26. This very quickly becomes less and less likely the longer the input string is. A 2 letter word is 1/26 x 1/26, or 1/676. We can formalise this as 1/(26^n), where n is the length of string we're looking for (i.e. the length of the complete works of shakespeare.
+Each letter has a 1/26 chance of appearing, so the chance of a 1 letter word being typed is 1/26. This very quickly becomes less and less likely the longer the input string is. A 2 letter word is 1/26 x 1/26, or 1/676. We can formalise this as 1/(26^n), where n is the length of string we're looking for (i.e. the length of the complete works of Shakespeare.)
 
 ### The Practice
 Lets start easy, and only go up to a 6 letter word. From what we know we can predict how many letters we'd need to type to get the word to appear. I wrote a short script to programatically be my monkey and type random letters. Below are the results
