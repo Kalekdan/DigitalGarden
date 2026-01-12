@@ -6,8 +6,8 @@ maturity: seed
 plantedDate: 2026-01-08
 tendedDate: 2026-01-08
 ---
-
-Theres the classic thought experiment - if you had a room full of monkeys randomly typing away on keyboards, they'd eventually produce the entire works of Shakespeare. Now this is a mathematical certainty given infinite monkeys and inifinte time (or in fact 1 monkey and infinite time or inifinite monkeys and 1(?) time). But how long would it actually take. It seems like something you should be able to calculate, so I thought I'd give it a quick go with my limited probability knowledge. And maybe have a go at implementing a quick experiment to see how close I am.
+![[Pasted image 20260112104233.png]]
+There's the classic thought experiment - if you had a room full of monkeys randomly typing away on keyboards, they'd eventually produce the entire works of Shakespeare. Now this is a mathematical certainty given infinite monkeys and inifinte time (or in fact 1 monkey and infinite time or inifinite monkeys and 1(?) time). But how long would it actually take. It seems like something you should be able to calculate, so I thought I'd give it a quick go with my limited probability knowledge. And maybe have a go at implementing a quick experiment to see how close I am.
 
 ### The Theory
 We're going to work on the assumption that the monkey is hitting the keyboard totally randomly, it should be quite straightforward to work out how long it will take to type any given word. I'm also going to ignore spaces for now, as that adds another level of complexity we will talk about later.
