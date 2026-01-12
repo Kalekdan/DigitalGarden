@@ -17,11 +17,11 @@ Each letter has a 1/26 chance of appearing, so the chance of a 1 letter word bei
 ### The Practice
 Lets start easy, and only go up to a 6 letter word. From what we know we can predict how many letters we'd need to type to get the word to appear. I wrote a short script to programatically be my monkey and type random letters. Below are the results
 
-| Input Length | Expected Random Letters Needed | Actual Random Letters Needed (first) | Actual Random Letters Needed (avg) |
-|--------------|--------------------------------|--------------------------------------|------------------------------------|
-| 1            | 26                             | 39                                   |                                    |
-| 2            | 676                            | 1030                                 |                                    |
-| 3            | 17576                          | 16691                                |                                    |
-| 4            | 456976                         | 82483                                |                                    |
-| 5            | 11881376                       | 308341                               |                                    |
-| 6            | 308915776                      | 39865835                             |                                    |
+| Input Length | Expected Random Letters Needed | Actual Random Letters Needed (first) | Actual Random Letters Needed (avg 10x trials) |
+| ------------ | ------------------------------ | ------------------------------------ | --------------------------------------------- |
+| 1            | 26                             | 39                                   | 26                                            |
+| 2            | 676                            | 1030                                 | 572.30                                        |
+| 3            | 17576                          | 16691                                | 15786.00                                      |
+| 4            | 456976                         | 82483                                | 377691.90                                     |
+| 5            | 11881376                       | 308341                               | 11123520.70                                   |
+| 6            | 308915776                      | 39865835                             |                                               |
