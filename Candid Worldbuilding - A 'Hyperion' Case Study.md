@@ -11,7 +11,7 @@ tendedDate: 2026-02-22
 
 One of my friends had been encouraging me to read 'Hyperion' by Dan Simmons for as long as I can remember, and I recently got around to picking it up. I may do a longer review at some point, but I particularly wanted to take a closer look at the worldbuilding which I loved.
 
-I've seen this type of worldbuilding before, but it was done so well in this book. I'm not sure what it would be called or if others have named it already, but I have decided to describe it as 'candid worldbuilding'.
+I've seen this type of worldbuilding before, but it was done so well in this book. I've spoken a bit about my experience of [[Building a world to set a campaign in|worldbuilding for a TTRPG]], but I wanted to call out what I've noticed when reading this book. I'm not sure what it would be called or if others have named it already, but I have decided to describe it as 'candid worldbuilding'.
 
 ## What is 'candid worldbuilding'?
 
