@@ -5,7 +5,7 @@ tags:
   - book
 maturity: seed
 plantedDate: 2026-02-22
-tendedDate: 2026-02-22
+tendedDate: 2026-02-23
 ---
 ![[Pasted image 20260222163615.png]]
 
