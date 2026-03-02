@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "aec357e3eebb3174",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "e04b922fbac04bc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "b3f7a6d1aff52ea3",
             "type": "leaf",
             "state": {
@@ -49,7 +73,8 @@
               "title": "Vibe Coding - The death of new developers"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b165db62d62c3c4f",
+  "active": "e04b922fbac04bc7",
   "lastOpenFiles": [
     "Pasted image 20260112104233.png",
     "Vibe Coding - The death of new developers.md",
