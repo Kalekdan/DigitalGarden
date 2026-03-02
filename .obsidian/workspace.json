@@ -58,23 +58,9 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.7"
             }
-          },
-          {
-            "id": "0cd225a040a8c849",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cd225a040a8c849",
+  "active": "aec357e3eebb3174",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "When does a hobby become a chore.md",
