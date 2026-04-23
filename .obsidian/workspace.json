@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding the Philosophical Approaches.md",
+                "file": "Motivation, procrastination and attention - and where it all went.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding the Philosophical Approaches"
+              "title": "Motivation, procrastination and attention - and where it all went"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,14 +245,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbe425311901d9ab",
+  "active": "e04b922fbac04bc7",
   "lastOpenFiles": [
+    "Motivation, procrastination and attention - and where it all went.md",
+    "9999-12-21.md",
     "Templates/Digital Garden Template.md",
-    "Understanding the Philosophical Approaches.md",
-    "conflict-files-obsidian-git.md",
+    "The First Tree in a Forest.md",
     "When does a hobby become a chore.md",
     "Vibe Coding - The death of new developers.md",
-    "The First Tree in a Forest.md",
+    "Understanding the Philosophical Approaches.md",
+    "conflict-files-obsidian-git.md",
     "How long until the monkeys write Shakespeare.md",
     "Frequently Happy.md",
     "Finding an unbiased news source.md",
@@ -267,7 +269,6 @@
     "Pasted image 20260101164432.png",
     "Pasted image 20260101153319.png",
     "Pasted image 20260101153255.png",
-    "9999-12-21.md",
     "Untitled.canvas",
     "Digital Garden Template.md",
     "Templates",
