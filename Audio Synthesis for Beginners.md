@@ -13,7 +13,7 @@ The only issue is, I need to learn how to make a VST, and I need to learn the ke
 
 For context, I'm not coming at this from nowhere, I own a couple of basic synths, including my first synth, the ARGON8X (digital polyphonic wavetable) and my latest addition, the adorable, Moog Mother 32 (subtractive analogue). I love them both, but want to learn a bit more about what makes them tick!
 
-![[Pasted image 20260430173822.png| 500]]
+![[Pasted image 20260430173822.png|500]]
 # What is Audio Synthesis
 Audio synthesis is what I'm using as the umbrella term for any method of making sound. That includes additive synths, FM synths, and many more which I'm sure I'll learn as I go. It importantly *doesn't* include sampling/recording sounds to play them back.
 
